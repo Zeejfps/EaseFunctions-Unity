@@ -1,0 +1,17 @@
+{
+  "name": "com.envdev.easefunctions",
+  "version": "1.0.0-preview",
+  "displayName": "Ease Functions",
+  "description": "C# implementation of common easing functions based on https://easings.net/",
+  "keywords": [
+    "Easing",
+    "Ease",
+    "Easings"
+  ],
+  "author": {
+    "name": "Evgeny Vasilyev",
+    "email": "zeejfps@gmail.com",
+    "url": "https://www.evasilyev.com"
+  },
+  "type": "library"
+}
